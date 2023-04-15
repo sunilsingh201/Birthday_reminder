@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sunilsingh201/Portfolio_.git/static/css/main.c6ea8c32.css",
+    "main.js": "/sunilsingh201/Portfolio_.git/static/js/main.b3371351.js",
+    "static/js/787.0fa526db.chunk.js": "/sunilsingh201/Portfolio_.git/static/js/787.0fa526db.chunk.js",
+    "index.html": "/sunilsingh201/Portfolio_.git/index.html",
+    "main.c6ea8c32.css.map": "/sunilsingh201/Portfolio_.git/static/css/main.c6ea8c32.css.map",
+    "main.b3371351.js.map": "/sunilsingh201/Portfolio_.git/static/js/main.b3371351.js.map",
+    "787.0fa526db.chunk.js.map": "/sunilsingh201/Portfolio_.git/static/js/787.0fa526db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ea8c32.css",
+    "static/js/main.b3371351.js"
+  ]
+}
