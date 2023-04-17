@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Birthday_reminder/static/css/main.c6ea8c32.css",
-    "main.js": "/Birthday_reminder/static/js/main.9a8d27f4.js",
-    "static/js/787.0fa526db.chunk.js": "/Birthday_reminder/static/js/787.0fa526db.chunk.js",
-    "index.html": "/Birthday_reminder/index.html",
-    "main.c6ea8c32.css.map": "/Birthday_reminder/static/css/main.c6ea8c32.css.map",
-    "main.9a8d27f4.js.map": "/Birthday_reminder/static/js/main.9a8d27f4.js.map",
-    "787.0fa526db.chunk.js.map": "/Birthday_reminder/static/js/787.0fa526db.chunk.js.map"
+    "main.css": "/Birthday_reminder_React/static/css/main.c6ea8c32.css",
+    "main.js": "/Birthday_reminder_React/static/js/main.e6906a3c.js",
+    "static/js/787.0fa526db.chunk.js": "/Birthday_reminder_React/static/js/787.0fa526db.chunk.js",
+    "index.html": "/Birthday_reminder_React/index.html",
+    "main.c6ea8c32.css.map": "/Birthday_reminder_React/static/css/main.c6ea8c32.css.map",
+    "main.e6906a3c.js.map": "/Birthday_reminder_React/static/js/main.e6906a3c.js.map",
+    "787.0fa526db.chunk.js.map": "/Birthday_reminder_React/static/js/787.0fa526db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6ea8c32.css",
-    "static/js/main.9a8d27f4.js"
+    "static/js/main.e6906a3c.js"
   ]
 }
